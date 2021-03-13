@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsosmx
 - 👀 I’m interested in `Front-End Web design`, `Discord Bots Develop`
-- 🌱 I’m currently learning **All Things that called Programming**
-- 💞️ I’m looking to collaborate on **keyboard**
+- 🌱 I’m currently learning **All Things that called Programming languages**
+- 💞️ I’m looking to collaborate on `Web Design`, `Developing Discord Bots`, `Discord Servers Design`
 - 📫 How to reach me Discord/`!OSMX#2113`
 
 <!---
