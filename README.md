@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsosmx
-- 👀 I’m interested in **Front-End Web design**
+- 👀 I’m interested in `Front-End Web design`, `Discord Bots Develop`
 - 🌱 I’m currently learning **All Things that called Programming**
 - 💞️ I’m looking to collaborate on **keyboard**
 - 📫 How to reach me Discord/`!OSMX#2113`
