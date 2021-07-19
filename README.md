@@ -1,4 +1,4 @@
-### Don't `Comment` Bad Code Write It!
+### Don't `Comment` Bad Code Rewrite It!
 - 👋 Hi, I'm **OSMX** `Person who love coding all time and his keyboard's sound more.` 
 - 👀 I'm a self-taught `JavaScript` and `asp.net` developer
 - ⏰ I'm currently working on various projects including [keenbot](https://www.keenbot.ml)
