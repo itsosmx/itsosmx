@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @itsosmx
-- 👀 I’m interested in `Web Developing`, `Discord Bots Develop`
-- 🌱 I’m currently learning **All Things that called Programming languages**
-- 💞️ I’m looking to collaborate on `Web Design`, `Developing Discord Bots`, `Discord Servers Design`
-- 📫 How to reach me Discord/`!OSMX#2113`
+### Don't `Comment` Bad Code Write It!
+- 👋 Hi, I'm **OSMX** `Person who love coding all time and his keyboard's sound more.` 
+- 👀 I'm a self-taught `JavaScript` and `asp.net` developer
+- ⏰ I'm currently working on various projects including [keenbot](https://www.keenbot.ml)
+- 🚀 My journey in the wonderful land of code started at age 15 when I first tried creating simple websites
+- 🧬 Do you think we should cooperate with each other? [Contact Me](mailto:husseinosama179@gmail.com) or you can find me in discord all time [Discord](https://discord.gg/fm2J8PE)
 
 <!---
 itsosmx/itsosmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
