@@ -7,11 +7,11 @@
 
 #### Languages and Frameworks i am familiar with
 
-|Javascript|![99%](https://progress-bar.dev/99)||Node.js   |![90%](https://progress-bar.dev/90)|
-|----------|:-------------:||----------|:-------------:|
-|React.js  |![95%](https://progress-bar.dev/95)||MongoDB   |![95%](https://progress-bar.dev/95)|
-|HTML      |![99%](https://progress-bar.dev/99)||Python    |![80%](https://progress-bar.dev/80)|
-|CSS       |![99%](https://progress-bar.dev/99)||C++       |![60%](https://progress-bar.dev/60)|
+|Javascript|![99%](https://progress-bar.dev/99)|Node.js|![90%](https://progress-bar.dev/90)|
+|----------|:-------------:|----------|:-------------:|
+|React.js  |![95%](https://progress-bar.dev/95)|MongoDB|![95%](https://progress-bar.dev/95)|
+|HTML      |![99%](https://progress-bar.dev/99)|Python |![80%](https://progress-bar.dev/80)|
+|CSS       |![99%](https://progress-bar.dev/99)|C++    |![60%](https://progress-bar.dev/60)|
 
 
 
