@@ -13,6 +13,12 @@
  - MongoDB ![95%](https://progress-bar.dev/95)
  - Python ![80%](https://progress-bar.dev/80)
  - C++ ![60%](https://progress-bar.dev/60)
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| Javascript  | ![99%](https://progress-bar.dev/99)  |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 <!---
 itsosmx/itsosmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
