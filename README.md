@@ -7,15 +7,15 @@
 
 #### Languages and Frameworks i am familiar with
 
-|Javascript|![99%](https://progress-bar.dev/99)|
-|----------|:-------------:|
-|React.js  |![95%](https://progress-bar.dev/95)|
-|HTML      |![99%](https://progress-bar.dev/99)|
-|CSS       |![99%](https://progress-bar.dev/99)|
-|Node.js   |![90%](https://progress-bar.dev/90)|
-|MongoDB   |![95%](https://progress-bar.dev/95)|
-|Python    |![80%](https://progress-bar.dev/80)|
-|C++       |![60%](https://progress-bar.dev/60)|
+|Javascript|![99%](https://progress-bar.dev/99)||Node.js   |![90%](https://progress-bar.dev/90)|
+|----------|:-------------:||----------|:-------------:|
+|React.js  |![95%](https://progress-bar.dev/95)||MongoDB   |![95%](https://progress-bar.dev/95)|
+|HTML      |![99%](https://progress-bar.dev/99)||Python    |![80%](https://progress-bar.dev/80)|
+|CSS       |![99%](https://progress-bar.dev/99)||C++       |![60%](https://progress-bar.dev/60)|
+
+
+
+
 <!---
 itsosmx/itsosmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
