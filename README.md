@@ -1,4 +1,4 @@
-### Don't `Comment` Bad Code Rewrite It!
+### Don't `#Comment` Bad Code Rewrite It!
 - 👋 Hi, I'm **[OSMX](www.osmx.me)** (Osama Hussein) `Person who love coding all time and his keyboard's sound more.` 
 - 👀 I'm a self-taught *`Full Stack`* developer
 - ⏰ I'm currently working on various projects including [keenbot](https://www.keenbot.ml) **discord bot** and building some APIs
