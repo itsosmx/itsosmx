@@ -14,7 +14,7 @@
 |CSS       |![99%](https://progress-bar.dev/99)|C++    |![60%](https://progress-bar.dev/60)|
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
