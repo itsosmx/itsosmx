@@ -13,9 +13,8 @@
 |HTML      |![99%](https://progress-bar.dev/99)|Python |![80%](https://progress-bar.dev/80)|
 |CSS       |![99%](https://progress-bar.dev/99)|C++    |![60%](https://progress-bar.dev/60)|
 
-
-[![OSMX's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\n
-[![OSMX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![OSMX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![OSMX's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
