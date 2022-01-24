@@ -1,5 +1,5 @@
 ### Don't `#Comment` Bad Code Rewrite It!
-- 👋 Hi, I'm **[OSMX](www.osmx.me)** (Osama Hussein) `Person who love coding all time and his keyboard's sound more.` 
+- 👋 Hi, I'm **[OSMX](https://www.osmx.me/)** (Osama Hussein) `Person who love coding all time and his keyboard's sound more.` 
 - 👀 I'm a self-taught *`Full Stack`* developer
 - ⏰ I'm currently working on various projects including [keenbot](https://www.keenbot.ml) **discord bot** and building some APIs
 - 🚀 My journey in the wonderful land of code started at age 15 when I first tried creating simple websites
@@ -13,8 +13,8 @@
 |HTML      |![99%](https://progress-bar.dev/99)|Python |![80%](https://progress-bar.dev/80)|
 |CSS       |![99%](https://progress-bar.dev/99)|C++    |![60%](https://progress-bar.dev/60)|
 
-[![OSMX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![OSMX's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![OSMX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&theme=dark)](https://github.com/itsosmx) 
+[![OSMX's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=dark)](https://github.com/itsosmx)
 
 
 <!---
