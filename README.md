@@ -1,5 +1,6 @@
 ### Don't `#Comment` Bad Code Rewrite It!
-Hi, I'm **[OSMX](https://www.osmx.me/)** (Osama Hussein) `Person who love coding all time and his keyboard's sound more.` 
+Hi, I'm **[OSMX](https://www.osmx.me/)** (Osama Hussein) `Person who love coding all time and his keyboard's sound more.`
+
 **Self-taught full stack developer designing and developing websites/applications**
 
 `My journey:`
