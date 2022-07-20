@@ -5,14 +5,6 @@
 - 🚀 My journey in the wonderful land of code started at age 15 when I first tried creating simple websites
 - 🧬 Do you think we should cooperate with each other? [Contact Me](mailto:husseinosama179@gmail.com) or you can find me in discord all time [Discord](https://discord.gg/fm2J8PE)
 
-#### Languages and Frameworks i am familiar with
-
-|Javascript|![99%](https://progress-bar.dev/99)|Node.js|![90%](https://progress-bar.dev/90)|SQL|![75%](https://progress-bar.dev/75)|
-|----------|:-------------:|----------|:-------------:|----------|:-------------:|
-|React.js  |![95%](https://progress-bar.dev/95)|MongoDB|![95%](https://progress-bar.dev/95)|C# |![60%](https://progress-bar.dev/60)|
-|HTML      |![99%](https://progress-bar.dev/99)|Python |![80%](https://progress-bar.dev/80)|
-|CSS       |![99%](https://progress-bar.dev/99)|C++    |![60%](https://progress-bar.dev/60)|
-
 [![OSMX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&theme=dark)](https://github.com/itsosmx) 
 [![OSMX's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=dark)](https://github.com/itsosmx)
 
