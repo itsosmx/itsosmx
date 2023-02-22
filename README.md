@@ -8,8 +8,8 @@ Since beginning my journey in 2015, the topic was a blogger, blog to write techn
 
 
 
-[![OSMX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&theme=dark)](https://github.com/itsosmx) 
-[![OSMX's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=dark)](https://github.com/itsosmx)
+[![OSMX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&theme=dark&count_private=true)](https://github.com/itsosmx) 
+[![OSMX's github stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=dark&count_private=true)](https://github.com/itsosmx)
 
 
 <!---
