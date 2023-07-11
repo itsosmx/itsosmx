@@ -1,6 +1,6 @@
-![OSMX](https://github.com/itsosmx/itsosmx/assets/49457438/ef9ea826-3eec-4b67-8375-3f02fa7c93f8)
+![OSMX](https://github.com/itsosmx/itsosmx/assets/49457438/580d1575-b787-437d-8bbf-69f9d08be1a1)
 ### Don't `#Comment` Bad Code Rewrite It!
-Hi, I'm **[OSMX](https://www.osmx.me/)** (Osama Hussein) `Person who love coding all time and his keyboard's sound more.`
+Hi, I'm **[OSMX](https://www.osmx.me/)** (Osama Hussein) `Person who loves coding all time and his keyboard's sound more.`
 
 **Self-taught full stack developer, designing and developing websites/applications**
 [See my Toolbox](https://osmx.me/toolbox)
