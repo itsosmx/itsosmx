@@ -1,4 +1,5 @@
-![OSMX](https://github.com/itsosmx/itsosmx/assets/49457438/580d1575-b787-437d-8bbf-69f9d08be1a1)
+![OSMX](https://github.com/itsosmx/itsosmx/assets/49457438/e07f3a46-98f0-4407-9299-eac986cd0519)
+
 ### Don't `#Comment` Bad Code Rewrite It!
 Hi, I'm **[OSMX](https://www.osmx.me/)** (Osama Hussein) `Person who loves coding all time and his keyboard's sound more.`
 
