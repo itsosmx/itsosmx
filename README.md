@@ -1,4 +1,4 @@
-[![OSMX](https://github.com/itsosmx/itsosmx/assets/49457438/e07f3a46-98f0-4407-9299-eac986cd0519)](https://www.osmx.me/)
+[![OSMX](https://github.com/itsosmx/itsosmx/assets/49457438/e07f3a46-98f0-4407-9299-eac986cd0519 "OSMX")](https://www.osmx.me/)
 ## Don't `#Comment` Bad Code Rewrite It!
 
 ## 👋 Hello!
