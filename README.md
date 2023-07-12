@@ -12,10 +12,10 @@ Software engineer with 5+ years of experience. Worked on freelance projects. Fam
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 
 ## 🔗 Links
-[Portfolio](https://osmx.me)
-[List of toolbox](https://osmx.me/toolbox)
-[List of projects](https://osmx.me/projects)
-[Contact me](https://osmx.me/contact)
+- [Portfolio](https://osmx.me)
+- [List of toolbox](https://osmx.me/toolbox)
+- [List of projects](https://osmx.me/projects)
+- [Contact me](https://osmx.me/contact)
 
 ## 📊 Statistics
 |   |     |
