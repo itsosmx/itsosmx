@@ -10,7 +10,7 @@ Software engineer with 5+ years of experience. Worked on freelance projects. Fam
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=csharp)
+![](https://img.shields.io/badge/Code-OnFire-informational?style=flat&color=informational&logo=csharp)
 
 ## 🔗 Links
 - [Portfolio](https://osmx.me)
