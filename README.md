@@ -21,5 +21,5 @@ Software engineer with 5+ years of experience. Worked on freelance projects. Fam
 ## 📊 Statistics
 |   |     |
 |---|:---:|
-|![OSMX's GitHub stats](https://osmx-github-stats.vercel.app/api?username=itsosmx&theme=dark&show_icons=true)| [![Top Langs](https://osmx-github-stats.vercel.app/api/top-langs/?username=itsosmx&layout=compact&theme=dark)](#) |
+|![OSMX's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=dark&show_icons=true)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&layout=compact&theme=dark)](#) |
 |   |     |
