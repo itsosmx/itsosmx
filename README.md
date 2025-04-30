@@ -14,9 +14,7 @@ I'm Osama Hussein (OSMX), a Fullstack Software Developer with 5+ years of experi
 
 ## 🔗 Links
 - [Portfolio](https://osmx.me)
-- [List of toolbox](https://osmx.me/toolbox)
-- [List of projects](https://osmx.me/projects)
-- [Contact me](https://osmx.me/contact)
+- [LinkedIn](https://www.linkedin.com/in/itsosmx/)
 
 ## 📊 Statistics
 |   |     |
