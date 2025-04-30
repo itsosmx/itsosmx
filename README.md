@@ -2,7 +2,7 @@
 ## Don't `#Comment` Bad Code Rewrite It!
 
 ## 👋 Hello!
-Software Developer with 5+ years of experience. Worked on freelance projects. Familiar with remote roles. Always seeking to gain more experience. Comfortable with `web`, `mobile`, `API`, and `game development`.
+I'm Osama Hussein (OSMX), a Fullstack Software Developer with 5+ years of experience. Worked on freelance projects. Familiar with remote roles. Always seeking to gain more knowledge. Comfortable with `web`, `mobile`, `API`, and `game development`.
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&color=informational&logo=typescript)
