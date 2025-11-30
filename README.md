@@ -32,5 +32,3 @@
 | ![OSMX's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=radical&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&layout=compact&theme=radical&hide_border=true) |
 
 ---
-
-✨ _“Don’t `#comment` bad code — rewrite it.”_  
