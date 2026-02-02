@@ -26,6 +26,12 @@
 
 ---
 
+## Projects
+- [Expenselizer](https://www.expenselizer.com) - Keep tracking of your expenses with insights.
+- [Widget Ease](https://widgetease.com) - AI Customer support for your web.
+- [Menulizer](http://menulizer.com) - Menu generator with the ability to accept orders.
+- [Moltzim](https://www.moltzim.com/) - Freelancing platform.
+
 ## 📊 GitHub Stats
 | GitHub Profile | Top Languages |
 |----------------|---------------|
