@@ -31,6 +31,9 @@
 - [Widget Ease](https://widgetease.com) - AI Customer support for your web.
 - [Menulizer](http://menulizer.com) - Menu generator with the ability to accept orders.
 - [Moltzim](https://www.moltzim.com/) - Freelancing platform.
+- [Joblizer](https://joblizer.com/) - A smarter approach to connecting job seekers and recruiters through AI-powered matching.
+- [Tafawwaq](https://tafawwaq.com/) - Personalized 1-on-1 online tutoring
+- [Makan Design](https://www.makan.design/) - interiors design company portfolio
 
 ## 📊 GitHub Stats
 | GitHub Profile | Top Languages |
