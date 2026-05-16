@@ -2,9 +2,9 @@
 
 # 👋 Hey there, I'm Osama Hussein (OSMX)  
 
-💻 Fullstack Software Developer with **5+ years of experience** building scalable apps, and APIs.  
-🚀 Skilled in delivering freelance & remote projects across **web, mobile, and game development**.  
-📚 Always learning, always improving.  
+💻 Full Stack Software Developer focused on building scalable web applications, APIs, and SaaS platforms. 
+🚀 Experienced in delivering freelance and remote projects across modern web and mobile technologies.  
+📚 Passionate about continuous learning, problem-solving, and building impactful software products.
 
 ---
 
