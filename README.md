@@ -29,8 +29,10 @@
 - [Makan Design](https://www.makan.design/) - Portfolio website for an interior design company.
 
 ## 📊 GitHub Stats
-| GitHub Profile | Top Languages |
-|----------------|---------------|
-| ![OSMX's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsosmx&theme=radical&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsosmx&layout=compact&theme=radical&hide_border=true) |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsosmx&show_icons=true&locale=en&layout=compact" alt="itsosmx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsosmx&show_icons=true&locale=en" alt="itsosmx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsosmx&" alt="itsosmx" /></p>
 
 ---
