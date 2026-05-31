@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GameDev-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
