@@ -16,12 +16,6 @@
 
 ---
 
-## 🔗 Find Me Online
-🌍 [**Portfolio**](https://osmx.me)  
-💼 [**LinkedIn**](https://www.linkedin.com/in/itsosmx/)  
-
----
-
 ## Current Projects
 
 - [Tafawwaq](https://tafawwaq.com/) - Personalized 1-on-1 online tutoring platform with live interactive sessions.
@@ -32,9 +26,18 @@
 - [Joblizer](https://joblizer.com/) - AI-powered recruitment platform for smarter job matching between employers and candidates.
 - [Makan Design](https://www.makan.design/) - Portfolio website for an interior design company.
 
+---
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=itsosmx&hide_border=true)
 
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/-osmx.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://osmx.me)
+[![LinkedIn](https://img.shields.io/badge/-Osama_Hussein-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsosmx)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsosmx)
 
 ---
