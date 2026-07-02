@@ -3,15 +3,15 @@
 📍 **Egypt**  | 🤖 **Fullstack Software Developer**
 
 
-- 💻 Full Stack Software Developer focused on building scalable web applications, APIs, and SaaS platforms. 
-- 🚀 Experienced in delivering freelance and remote projects across modern web and mobile technologies.  
-- 📚 Passionate about continuous learning, problem-solving, and building impactful software products.
+- Full Stack Software Developer focused on building scalable web applications, APIs, and SaaS platforms. 
+- Experienced in delivering freelance and remote projects across modern web and mobile technologies.  
+- Passionate about continuous learning, problem-solving, and building impactful software products.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=appwrite,aws,cs,css,docker,electron,express,firebase,graphql,html,js,mongodb,nginx,nodejs,react,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,ts,aws,cs,css,docker,express,firebase,graphql,html,js,mongodb,nginx" />
 </p>
 
 ---
