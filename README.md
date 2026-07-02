@@ -1,6 +1,7 @@
-[![OSMX Banner](https://github.com/itsosmx/itsosmx/assets/49457438/e07f3a46-98f0-4407-9299-eac986cd0519 "OSMX")](https://www.osmx.me/)
+# Hey there, I'm Osama Hussein 👋
 
-# 👋 Hey there, I'm Osama Hussein (OSMX)  
+📍 **Egypt**  | 🤖 **Fullstack Software Developer**
+
 
 💻 Full Stack Software Developer focused on building scalable web applications, APIs, and SaaS platforms. 
 🚀 Experienced in delivering freelance and remote projects across modern web and mobile technologies.  
@@ -21,7 +22,8 @@
 
 ---
 
-## Projects
+## Current Projects
+
 - [Tafawwaq](https://tafawwaq.com/) - Personalized 1-on-1 online tutoring platform with live interactive sessions.
 - [Widget Ease](https://widgetease.com) - AI-powered customer support platform for websites.
 - [Expenselizer](https://www.expenselizer.com) - Expense tracking platform with analytics and financial insights.
@@ -30,8 +32,9 @@
 - [Joblizer](https://joblizer.com/) - AI-powered recruitment platform for smarter job matching between employers and candidates.
 - [Makan Design](https://www.makan.design/) - Portfolio website for an interior design company.
 
-## 📊 GitHub Stats
+## GitHub Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsosmx&" alt="itsosmx" /></p>
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=itsosmx&hide_border=true)
+
 
 ---
