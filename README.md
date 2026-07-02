@@ -3,9 +3,9 @@
 📍 **Egypt**  | 🤖 **Fullstack Software Developer**
 
 
-💻 Full Stack Software Developer focused on building scalable web applications, APIs, and SaaS platforms. 
-🚀 Experienced in delivering freelance and remote projects across modern web and mobile technologies.  
-📚 Passionate about continuous learning, problem-solving, and building impactful software products.
+- 💻 Full Stack Software Developer focused on building scalable web applications, APIs, and SaaS platforms. 
+- 🚀 Experienced in delivering freelance and remote projects across modern web and mobile technologies.  
+- 📚 Passionate about continuous learning, problem-solving, and building impactful software products.
 
 ---
 
